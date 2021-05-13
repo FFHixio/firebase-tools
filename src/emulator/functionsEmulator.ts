@@ -921,6 +921,7 @@ export class FunctionsEmulator implements EmulatorInstance {
   private async handleBackgroundTrigger(projectId: string, triggerKey: string, proto: any) {
     // If background triggers are disabled, exit early
     const record = this.triggers[triggerKey];
+
     if (record && !record.enabled) {
       return Promise.reject({ code: 204, body: "Background triggers are curently disabled." });
     }
