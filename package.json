@@ -208,7 +208,7 @@
     "sinon-chai": "^3.6.0",
     "source-map-support": "^0.5.9",
     "supertest": "^3.3.0",
-    "swagger2openapi": "^6.0.3",
+    "swagger2openapi": "^7.0.0",
     "ts-node": "^9.1.1",
     "typescript": "^3.9.5",
     "typescript-json-schema": "^0.50.1"
