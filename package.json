@@ -83,7 +83,7 @@
     ]
   },
   "dependencies": {
-    "@google-cloud/pubsub": "^2.7.0",
+    "@google-cloud/pubsub": "^3.7.1",
     "@types/archiver": "^5.1.0",
     "JSONStream": "^1.2.1",
     "abort-controller": "^3.0.0",
@@ -194,7 +194,7 @@
     "eslint-plugin-jsdoc": "^30.7.13",
     "eslint-plugin-prettier": "^3.3.1",
     "firebase": "^7.24.0",
-    "firebase-admin": "^9.4.2",
+    "firebase-admin": "^11.9.0",
     "firebase-functions": "^3.15.0",
     "google-discovery-to-swagger": "^2.1.0",
     "mocha": "^8.2.1",
